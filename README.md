@@ -450,5 +450,3 @@ If you encounter any issues or have questions:
 For additional support, please check the project's issue tracker or create a new issue with detailed information about your problem.
 
 ---
-
-**Happy Chatting! 🤖💬**
